@@ -1,0 +1,16 @@
+{
+  "name": "discord-24-7-selfbot",
+  "version": "1.0.0",
+  "description": "A script to keep your Discord account online 24/7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^13.14.0",
+    "dotenv": "^16.4.5"
+  },
+  "author": "",
+  "license": "MIT"
+}
+
